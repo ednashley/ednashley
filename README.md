@@ -9,7 +9,7 @@ I am a third-year student at Polytech Lyon, specializing in computer science. I 
 
 
 - 🔭 I’m currently working on creating webpages and learning how to progam.
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, PHP, Vue.js, Python, Java, MySQL, SQL, Twig, and Git.
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, PHP, Vue.js, Python, Java, SQL, Twig, and Git.
 - 💬 Ask me about EVERYTHING !
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Wait... Java and JavaScript aren't the same?!
